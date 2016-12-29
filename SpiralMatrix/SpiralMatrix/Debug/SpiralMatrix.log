@@ -1,0 +1,29 @@
+﻿Build started 28/12/2016 23:16:25.
+     1>Project "C:\Users\sandeep\Documents\Visual Studio 2013\Projects\SpiralMatrix\SpiralMatrix\SpiralMatrix.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\SpiralMatrix.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SpiralMatrix.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SpiralMatrix.cpp
+         SpiralMatrix.cpp
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(63): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(66): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(88): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(112): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(115): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(136): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(139): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(160): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sandeep\documents\visual studio 2013\projects\spiralmatrix\spiralmatrix\spiralmatrix.cpp(163): warning C4018: '<' : signed/unsigned mismatch
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\SpiralMatrix.res" SpiralMatrix.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sandeep\Documents\Visual Studio 2013\Projects\SpiralMatrix\Debug\SpiralMatrix.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\sandeep\Documents\Visual Studio 2013\Projects\SpiralMatrix\Debug\SpiralMatrix.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sandeep\Documents\Visual Studio 2013\Projects\SpiralMatrix\Debug\SpiralMatrix.lib" /MACHINE:X86 Debug\SpiralMatrix.res
+         Debug\SpiralMatrix.obj
+         Debug\stdafx.obj
+         SpiralMatrix.vcxproj -> C:\Users\sandeep\Documents\Visual Studio 2013\Projects\SpiralMatrix\Debug\SpiralMatrix.exe
+     1>Done Building Project "C:\Users\sandeep\Documents\Visual Studio 2013\Projects\SpiralMatrix\SpiralMatrix\SpiralMatrix.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.18
